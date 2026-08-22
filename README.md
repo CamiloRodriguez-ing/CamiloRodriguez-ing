@@ -92,7 +92,7 @@ Sistema de reconocimiento del alfabeto de señas mediante **procesamiento de im�
 
 ## 📚 Actualmente aprendiendo
 
-```text
+
 Desarrollo Backend
 Arquitectura de Software
 AWS
@@ -101,7 +101,7 @@ DevOps
 Inteligencia Artificial
 Sistemas Distribuidos
 Metodologías Ágiles
-```
+
 
 ---
 
