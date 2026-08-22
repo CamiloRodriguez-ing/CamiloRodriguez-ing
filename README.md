@@ -48,7 +48,6 @@ Actualmente estoy fortaleciendo mis conocimientos en **desarrollo backend, arqui
 * Redes neuronales artificiales (ANN)
 * Reconocimiento de patrones
 * Procesamiento de imágenes
-* Reconocimiento del alfabeto de señas ASL
 
 
 ---
