@@ -92,15 +92,18 @@ Sistema de reconocimiento del alfabeto de señas mediante **procesamiento de im�
 
 ## 📚 Actualmente aprendiendo
 
-
+```text
 Desarrollo Backend
 Arquitectura de Software
+Cloud Computing
 AWS
 Bases de Datos
 DevOps
 Inteligencia Artificial
 Sistemas Distribuidos
 Metodologías Ágiles
+```
+
 
 
 ---
@@ -119,14 +122,6 @@ Busco seguir desarrollándome profesionalmente en áreas como:
 * Análisis y diseño de sistemas
 
 Me interesa participar en proyectos donde pueda **aprender constantemente, resolver problemas y convertir ideas en soluciones de software funcionales**.
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CamiloRodriguez-ing\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CamiloRodriguez-ing\&layout=compact\&theme=tokyonight)
 
 ---
 
