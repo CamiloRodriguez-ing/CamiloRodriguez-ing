@@ -18,9 +18,8 @@ Actualmente estoy fortaleciendo mis conocimientos en **desarrollo backend, arqui
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge\&logo=r\&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=for-the-badge\&logo=mathworks\&logoColor=white)
-![Assembly](https://img.shields.io/badge/Assembly-525252?style=for-the-badge)
+
 
 ### 🌐 Desarrollo Web
 
@@ -51,17 +50,6 @@ Actualmente estoy fortaleciendo mis conocimientos en **desarrollo backend, arqui
 * Procesamiento de imágenes
 * Reconocimiento del alfabeto de señas ASL
 
----
-
-## 🖥️ Sistemas y bajo nivel
-
-* Sistemas operativos
-* Procesos y concurrencia
-* Sincronización
-* Kernel y programación de bajo nivel
-* NASM
-* EMU8086
-* QEMU
 
 ---
 
@@ -103,27 +91,11 @@ Sistema de reconocimiento del alfabeto de señas mediante **procesamiento de im�
 
 ---
 
-### ☁️ Aplicaciones Serverless con AWS Lambda
-
-Implementación de aplicaciones y servicios utilizando arquitectura **serverless**, trabajando con funciones Lambda y procesos de despliegue mediante AWS CLI.
-
-**Tecnologías:** `Python` · `AWS Lambda` · `AWS CLI`
-
----
-
-### 🖥️ Kernel básico en Assembly
-
-Proyecto académico orientado al estudio de **sistemas operativos y programación de bajo nivel**, trabajando conceptos de bootloader, kernel, compilación de binarios y ejecución mediante máquinas virtuales.
-
-
----
-
 ## 📚 Actualmente aprendiendo
 
 ```text
 Desarrollo Backend
 Arquitectura de Software
-Cloud Computing
 AWS
 Bases de Datos
 DevOps
